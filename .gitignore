@@ -1,0 +1,30 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Pp]rojectSettings/ProjectVersion.txt
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio cache
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Ignore Unity package caches
+**/Library/
+**/Library/*
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
